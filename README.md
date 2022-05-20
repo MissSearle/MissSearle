@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misssearle&label=Profile%20views&color=0e75b6&style=flat" alt="misssearle" /> </p>
 
-- 🔭 I’m currently working on **Amazon Portal**
+- 🔭 I’m currently working on an **Amazon Portal**
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning to use **Git**
 
 - 👯 I’m looking to collaborate on **anything**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laceysearle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laceysearle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7993773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7993773" height="30" width="40" /></a>
 </p>
 
